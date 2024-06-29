@@ -1,0 +1,21 @@
+.red {
+    background-color: white;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
+.yellow {
+    background-color: yellow;
+}
+.purple {
+    background-color: purple;
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
